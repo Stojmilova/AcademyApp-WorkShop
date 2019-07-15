@@ -1,0 +1,29 @@
+﻿@model List<StudentsViewModel>
+
+@{
+    ViewBag.Title = "List of Students";
+}
+
+<div class="jumbotron">
+    @foreach (var student in Model)
+    {
+        <ul>
+            <li>StudentID: @student.Id</li>
+            <li>FirstName: @student.FirstName</li>
+            <li>LastName: @student.LastName</li>
+            <li>Age: @student.Age</li>
+            <li>TypeOfAcademy: @student.TypeOfAcademy</li>
+            <li>List of Projects:
+                @foreach (var project in student.Projects)
+                {
+                    <ul style="text-decoration: underline; ">Project num: @project.Id
+                        <li>Title: @project.Title</li>
+                        <li>Estimated Time: @project.EstimatedTime</li>
+                        <li>Time Spend: @project.TimeSpend</li>
+                    </ul>
+                    <br />
+                }
+            </li>
+        </ul>
+    }
+</div>

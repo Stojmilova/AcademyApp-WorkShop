@@ -1,0 +1,39 @@
+﻿@model AddStudentViewModel
+@{
+    ViewBag.Title = "Add Student";
+}
+<div class="jumbotron text-center">
+    <h1>Add new Student:</h1>
+    @using (Html.BeginForm())
+    {
+        <div class="row">
+            <div row-md-3>
+                <div class="input-group">
+                    <span class="input-group-addon">First Name:</span>
+                    @Html.HiddenFor(x => x.Id)
+                    @Html.TextBoxFor(x => x.FirstName, new { @class = "form-control", @placeholder = " First Name" })
+                </div>
+            </div>
+            <div row-md-3>
+                <div class="input-group">
+                    <span class="input-group-addon">Last Name:</span>
+                    @Html.TextBoxFor(x => x.LastName, new { @class = "form-control", @placeholder = "Last Name" })
+                </div>
+            </div>
+            <div row-md-3>
+                <div class="input-group">
+                    <span class="input-group-addon">Age:</span>
+                    @Html.TextBoxFor(x => x.Age, new { @class = "form-control", @placeholder = "yyyy/M/dd" })
+                </div>
+            </div>
+            <div row-md-3>
+                <div class="input-group">
+                    <span class="input-group-addon">Type of Academy:</span>
+                    @Html.DropDownListFor(x => x.TypeOfAcademy, Html.GetEnumSelectList(Model.TypeOfAcademy.GetType()), "Select a type", new { @class = "form-control" })
+                </div>
+            </div>
+        </div>
+        <button class="btn btn-danger" type="submit">Add Student</button>
+
+    }
+</div>

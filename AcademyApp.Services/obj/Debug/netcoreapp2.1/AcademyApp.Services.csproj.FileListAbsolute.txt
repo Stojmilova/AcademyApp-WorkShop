@@ -1,0 +1,42 @@
+C:\Users\Stojmilova\source\repos\SEDC.AcademyApp\AcademyApp.Services\bin\Debug\netcoreapp2.1\AcademyApp.Services.deps.json
+C:\Users\Stojmilova\source\repos\SEDC.AcademyApp\AcademyApp.Services\bin\Debug\netcoreapp2.1\AcademyApp.Services.dll
+C:\Users\Stojmilova\source\repos\SEDC.AcademyApp\AcademyApp.Services\bin\Debug\netcoreapp2.1\AcademyApp.Services.pdb
+C:\Users\Stojmilova\source\repos\SEDC.AcademyApp\AcademyApp.Services\bin\Debug\netcoreapp2.1\AcademyApp.DataAccess.dll
+C:\Users\Stojmilova\source\repos\SEDC.AcademyApp\AcademyApp.Services\bin\Debug\netcoreapp2.1\AcademyApp.Domain.dll
+C:\Users\Stojmilova\source\repos\SEDC.AcademyApp\AcademyApp.Services\bin\Debug\netcoreapp2.1\AcademyApp.DataAccess.pdb
+C:\Users\Stojmilova\source\repos\SEDC.AcademyApp\AcademyApp.Services\bin\Debug\netcoreapp2.1\AcademyApp.Domain.pdb
+C:\Users\Stojmilova\source\repos\SEDC.AcademyApp\AcademyApp.Services\obj\Debug\netcoreapp2.1\AcademyApp.Services.csprojAssemblyReference.cache
+C:\Users\Stojmilova\source\repos\SEDC.AcademyApp\AcademyApp.Services\obj\Debug\netcoreapp2.1\AcademyApp.Services.csproj.CoreCompileInputs.cache
+C:\Users\Stojmilova\source\repos\SEDC.AcademyApp\AcademyApp.Services\obj\Debug\netcoreapp2.1\AcademyApp.Services.AssemblyInfoInputs.cache
+C:\Users\Stojmilova\source\repos\SEDC.AcademyApp\AcademyApp.Services\obj\Debug\netcoreapp2.1\AcademyApp.Services.AssemblyInfo.cs
+C:\Users\Stojmilova\source\repos\SEDC.AcademyApp\AcademyApp.Services\obj\Debug\netcoreapp2.1\AcademyApp.Services.csproj.CopyComplete
+C:\Users\Stojmilova\source\repos\SEDC.AcademyApp\AcademyApp.Services\obj\Debug\netcoreapp2.1\AcademyApp.Services.dll
+C:\Users\Stojmilova\source\repos\SEDC.AcademyApp\AcademyApp.Services\obj\Debug\netcoreapp2.1\AcademyApp.Services.pdb
+C:\Users\Stojmilova\Desktop\ASP.NET Data-Driven\Workshop-Vezba od Cas\SEDC.AcademyApp\AcademyApp.Services\bin\Debug\netcoreapp2.1\AcademyApp.Services.deps.json
+C:\Users\Stojmilova\Desktop\ASP.NET Data-Driven\Workshop-Vezba od Cas\SEDC.AcademyApp\AcademyApp.Services\bin\Debug\netcoreapp2.1\AcademyApp.Services.dll
+C:\Users\Stojmilova\Desktop\ASP.NET Data-Driven\Workshop-Vezba od Cas\SEDC.AcademyApp\AcademyApp.Services\bin\Debug\netcoreapp2.1\AcademyApp.Services.pdb
+C:\Users\Stojmilova\Desktop\ASP.NET Data-Driven\Workshop-Vezba od Cas\SEDC.AcademyApp\AcademyApp.Services\bin\Debug\netcoreapp2.1\AcademyApp.DataAccess.dll
+C:\Users\Stojmilova\Desktop\ASP.NET Data-Driven\Workshop-Vezba od Cas\SEDC.AcademyApp\AcademyApp.Services\bin\Debug\netcoreapp2.1\AcademyApp.Domain.dll
+C:\Users\Stojmilova\Desktop\ASP.NET Data-Driven\Workshop-Vezba od Cas\SEDC.AcademyApp\AcademyApp.Services\bin\Debug\netcoreapp2.1\AcademyApp.DataAccess.pdb
+C:\Users\Stojmilova\Desktop\ASP.NET Data-Driven\Workshop-Vezba od Cas\SEDC.AcademyApp\AcademyApp.Services\bin\Debug\netcoreapp2.1\AcademyApp.Domain.pdb
+C:\Users\Stojmilova\Desktop\ASP.NET Data-Driven\Workshop-Vezba od Cas\SEDC.AcademyApp\AcademyApp.Services\obj\Debug\netcoreapp2.1\AcademyApp.Services.csprojAssemblyReference.cache
+C:\Users\Stojmilova\Desktop\ASP.NET Data-Driven\Workshop-Vezba od Cas\SEDC.AcademyApp\AcademyApp.Services\obj\Debug\netcoreapp2.1\AcademyApp.Services.csproj.CoreCompileInputs.cache
+C:\Users\Stojmilova\Desktop\ASP.NET Data-Driven\Workshop-Vezba od Cas\SEDC.AcademyApp\AcademyApp.Services\obj\Debug\netcoreapp2.1\AcademyApp.Services.AssemblyInfoInputs.cache
+C:\Users\Stojmilova\Desktop\ASP.NET Data-Driven\Workshop-Vezba od Cas\SEDC.AcademyApp\AcademyApp.Services\obj\Debug\netcoreapp2.1\AcademyApp.Services.AssemblyInfo.cs
+C:\Users\Stojmilova\Desktop\ASP.NET Data-Driven\Workshop-Vezba od Cas\SEDC.AcademyApp\AcademyApp.Services\obj\Debug\netcoreapp2.1\AcademyApp.Services.csproj.CopyComplete
+C:\Users\Stojmilova\Desktop\ASP.NET Data-Driven\Workshop-Vezba od Cas\SEDC.AcademyApp\AcademyApp.Services\obj\Debug\netcoreapp2.1\AcademyApp.Services.dll
+C:\Users\Stojmilova\Desktop\ASP.NET Data-Driven\Workshop-Vezba od Cas\SEDC.AcademyApp\AcademyApp.Services\obj\Debug\netcoreapp2.1\AcademyApp.Services.pdb
+C:\Users\Stojmilova\Desktop\ASP.NET Data-Driven\Workshop-Vezba od Cas-Class04\SEDC.AcademyApp\AcademyApp.Services\bin\Debug\netcoreapp2.1\AcademyApp.Services.deps.json
+C:\Users\Stojmilova\Desktop\ASP.NET Data-Driven\Workshop-Vezba od Cas-Class04\SEDC.AcademyApp\AcademyApp.Services\bin\Debug\netcoreapp2.1\AcademyApp.Services.dll
+C:\Users\Stojmilova\Desktop\ASP.NET Data-Driven\Workshop-Vezba od Cas-Class04\SEDC.AcademyApp\AcademyApp.Services\bin\Debug\netcoreapp2.1\AcademyApp.Services.pdb
+C:\Users\Stojmilova\Desktop\ASP.NET Data-Driven\Workshop-Vezba od Cas-Class04\SEDC.AcademyApp\AcademyApp.Services\bin\Debug\netcoreapp2.1\AcademyApp.DataAccess.dll
+C:\Users\Stojmilova\Desktop\ASP.NET Data-Driven\Workshop-Vezba od Cas-Class04\SEDC.AcademyApp\AcademyApp.Services\bin\Debug\netcoreapp2.1\AcademyApp.Domain.dll
+C:\Users\Stojmilova\Desktop\ASP.NET Data-Driven\Workshop-Vezba od Cas-Class04\SEDC.AcademyApp\AcademyApp.Services\bin\Debug\netcoreapp2.1\AcademyApp.DataAccess.pdb
+C:\Users\Stojmilova\Desktop\ASP.NET Data-Driven\Workshop-Vezba od Cas-Class04\SEDC.AcademyApp\AcademyApp.Services\bin\Debug\netcoreapp2.1\AcademyApp.Domain.pdb
+C:\Users\Stojmilova\Desktop\ASP.NET Data-Driven\Workshop-Vezba od Cas-Class04\SEDC.AcademyApp\AcademyApp.Services\obj\Debug\netcoreapp2.1\AcademyApp.Services.csprojAssemblyReference.cache
+C:\Users\Stojmilova\Desktop\ASP.NET Data-Driven\Workshop-Vezba od Cas-Class04\SEDC.AcademyApp\AcademyApp.Services\obj\Debug\netcoreapp2.1\AcademyApp.Services.csproj.CoreCompileInputs.cache
+C:\Users\Stojmilova\Desktop\ASP.NET Data-Driven\Workshop-Vezba od Cas-Class04\SEDC.AcademyApp\AcademyApp.Services\obj\Debug\netcoreapp2.1\AcademyApp.Services.AssemblyInfoInputs.cache
+C:\Users\Stojmilova\Desktop\ASP.NET Data-Driven\Workshop-Vezba od Cas-Class04\SEDC.AcademyApp\AcademyApp.Services\obj\Debug\netcoreapp2.1\AcademyApp.Services.AssemblyInfo.cs
+C:\Users\Stojmilova\Desktop\ASP.NET Data-Driven\Workshop-Vezba od Cas-Class04\SEDC.AcademyApp\AcademyApp.Services\obj\Debug\netcoreapp2.1\AcademyApp.Services.csproj.CopyComplete
+C:\Users\Stojmilova\Desktop\ASP.NET Data-Driven\Workshop-Vezba od Cas-Class04\SEDC.AcademyApp\AcademyApp.Services\obj\Debug\netcoreapp2.1\AcademyApp.Services.dll
+C:\Users\Stojmilova\Desktop\ASP.NET Data-Driven\Workshop-Vezba od Cas-Class04\SEDC.AcademyApp\AcademyApp.Services\obj\Debug\netcoreapp2.1\AcademyApp.Services.pdb

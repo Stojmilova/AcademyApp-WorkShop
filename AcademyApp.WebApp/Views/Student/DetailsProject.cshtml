@@ -1,0 +1,37 @@
+﻿@model List<DetailsProjectViewModel>
+@{
+    ViewBag.Title = "Details Project";
+}
+<br />
+<br />
+<br />
+<div class="jumbotron">
+    @using (Html.BeginForm())
+    {
+        <h2>View Details-Projects:</h2>
+        @foreach (var project in Model)
+        {
+            <div class="row">
+                <div class="hidden, col-md-3">
+                    <span class="input-group-addon">@Html.Label(expression: $"project.Id")</span>
+                    @Html.TextBox($"project.Id", project.Id, null, new { @class = "form-control" })
+                </div>
+                <div class="input-group, col-md-3">
+                    <span class="input-group-addon">@Html.Label(expression: $"project.Title")</span>
+                    @Html.TextBox($"project.Title", project.Title, null, new { @class = "form-control" })
+                </div>
+                <div class="input-group, col-md-3">
+                    <span class="input-group-addon">@Html.Label(expression: $"project.EstimatedTime")</span>
+                    @Html.TextBox($"project.EstimatedTime", project.EstimatedTime, null, new { @class = "form-control" })
+                </div>
+                <div class="input-group, col-md-3">
+                    <span class="input-group-addon">@Html.Label(expression: $"project.TimeSpend")</span>
+                    @Html.TextBox($"project.TimeSpend", project.TimeSpend, null, new { @class = "form-control" })
+                </div>
+            </div>
+        }
+    }
+</div>
+
+
+

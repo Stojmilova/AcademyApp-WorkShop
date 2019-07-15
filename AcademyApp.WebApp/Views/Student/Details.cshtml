@@ -1,0 +1,51 @@
+﻿@model List<AddStudentViewModel>
+<br />
+<br />
+@{
+    ViewBag.Title = "Details";
+}
+<br />
+<h1 style="color:green">@ViewBag.Title</h1>
+<br />
+<div class="jumbotron">
+    @using (Html.BeginForm())
+    {
+        <h2>View Details-Students:</h2>
+        <br />
+        @foreach (var student in Model)
+        {
+            <p>Student NO. @student.Id</p>
+            <div class="row">
+                <div class="input-group, col-md-4">
+                    <span class="input-group-addon">@Html.Label(expression: $"student.FirstName")</span>
+                    @Html.TextBox($"student.FirstName", student.FirstName, null, new { @class = "form-control" })
+                </div>
+                <div class="input-group, col-md-4">
+                    <span class="input-group-addon">@Html.Label(expression: $"student.LastName")</span>
+                    @Html.TextBox($"student.LastName", student.LastName, null, new { @class = "form-control" })
+                </div>
+                <div class="input-group, col-md-4">
+                    <button type="button" class="btn btn-danger">
+                        @Html.ActionLink("View PROJECTS", "DetailsProject", "Student", new { id = student.Id })
+                    </button>
+                </div>
+            </div>
+            <div class="row">
+                <div class="hidden, col-md-4">
+                    <span class="input-group-addon">@Html.Label(expression: $"student.Id")</span>
+                    @Html.TextBox($"student.Id", student.Id, null, new { @class = "form-control" })
+                </div>
+                <div class="input-group, col-md-4">
+                    <span class="input-group-addon">@Html.Label(expression: $"student.Age")</span>
+                    @Html.TextBox($"student.Age", student.Age, null, new { @class = "form-control" })
+                </div>
+                <div class="input-group, col-md-4">
+                    <button type="button" class="btn btn-danger">
+                        @Html.ActionLink("Add PROJECT", "AddProject", "Student", new { id = student.Id })
+                    </button>
+                </div>
+            </div>
+         <br />
+        }
+    }
+</div>
